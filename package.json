@@ -1,0 +1,27 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.6.0"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yves Dukuze",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvesduke/socketIocrestron.git"
+  },
+  "keywords": [
+    "websocket"
+  ],
+  "bugs": {
+    "url": "https://github.com/yvesduke/socketIocrestron/issues"
+  },
+  "homepage": "https://github.com/yvesduke/socketIocrestron#readme"
+}
